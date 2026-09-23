@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elyse Owen",
+    "section": "",
+    "text": "This is where the bio will go\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

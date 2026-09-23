@@ -1,7 +1,15 @@
 ---
-title: "eowen19.github.io"
+title: "Elyse Owen"
+
+image: "images/MEDS_headshot.jpg"
+toc: false
+about: 
+    template: trestles
+    image-shape: rectangle
+    image-width: 16em
+    
 ---
 
-This is a Quarto website. Happy fall quarter!
+This is where the bio will go
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
