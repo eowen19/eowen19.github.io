@@ -12,14 +12,14 @@ $charcoal: #535657;
 $thistle: #B7ADCF
 
 // Base document colors
-$navbar-bg; $cream; // navbar
-$navbar-fg: $stormy-teal; // navbar foreground elements
-$navbar-hl: $thistle; // highlight color when hovering over navbar links
-$body-bg: $light-green; // page background 
-$body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$navbar-bg; $cream: // navbar
+$navbar-fg; $stormy-teal: // navbar foreground elements
+$navbar-hl; $thistle: // highlight color when hovering over navbar links
+$body-bg; $light-green: // page background 
+$body-color; $gray: // page text 
+$footer-bg; $cream: // footer 
+$link-color; $purple: // hyperlinks 
 
 // Inline code
-$code-bg: $cream; // inline code background color
-$code-color: $charcoal; // inline code text color
+$code-bg; $cream: // inline code background color
+$code-color; $charcoal: // inline code text color
