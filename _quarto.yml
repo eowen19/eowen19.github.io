@@ -14,10 +14,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
-    css: styles.css
+    theme: styles.scss
     toc: true
     page-layout: full
 
